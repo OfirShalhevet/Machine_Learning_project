@@ -1,16 +1,15 @@
 ## Hi there 👋
+# Data Analysis Project
 
-<!--
-**OfirShalhevet/OfirShalhevet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project Objective
+In this data science project, I applied large-scale data processing techniques to classify candidate suitability for specific positions. The objective was to build a binary classification model that categorizes candidates as suitable (1) or unsuitable (0) based on a structured dataset with known and anonymous features. This project aimed to gain insights from large datasets and build predictive models to support decision-making processes.
 
-Here are some ideas to get you started:
+## Files
+- `notebook_45.ipynb` - Contains the code for data analysis and predictions.
+- `report_45.pdf` - Document that includes conclusions and reports generated during the project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- **Python**
+- **Jupyter Notebook**
+- Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn
+

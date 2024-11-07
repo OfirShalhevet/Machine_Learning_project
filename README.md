@@ -11,5 +11,9 @@ In this data science project, I applied large-scale data processing techniques t
 ## Technologies
 - **Python**
 - **Jupyter Notebook**
-- Libraries: Pandas, NumPy, Matplotlib, Scikit-Learn
+- **Libraries**:
+  - **Data Analysis**: Pandas, NumPy, Scipy
+  - **Machine Learning**: scikit-learn (Logistic Regression, KNeighborsClassifier, DecisionTreeClassifier, RandomForestClassifier)
+  - **Evaluation Metrics**: Mean Squared Error, Accuracy Score, ROC AUC Score
+  - **Data Visualization**: Matplotlib, Seaborn
 

@@ -1,6 +1,5 @@
 ## Hi there 👋
-# 
-Machine Learning Final project
+###Machine Learning Final project
 
 
 ## Project Objective
